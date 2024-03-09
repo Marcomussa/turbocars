@@ -684,7 +684,7 @@ section{padding: 7.5rem 0;}
     position: fixed;
     right: -1px;
     top: 0;
-    background: #0888a3;
+    background: rgb(150, 0, 0);
     z-index: 1032;
     height: 100%;
     -webkit-transform: translate3d(100%, 0, 0);
@@ -1582,7 +1582,6 @@ section{padding: 7.5rem 0;}
     font-family: Roboto, sans-serif;
     width: 90%;
     margin-left: 20px;
-    padding-top: 50%;
 }
 
 .contact-sec .contact-details .heading{
